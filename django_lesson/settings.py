@@ -80,11 +80,11 @@ WSGI_APPLICATION = 'django_lesson.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': '',
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': '',
-        'PORT': '',
+        'NAME': 'd9bmo8qbcrb4hc',
+        'USER': 'jlhodnjolhamay',
+        'PASSWORD': 'f513fb6b3c78629e8e62399abeeafd4ac4a6445dc27a920661ff9779b8790664',
+        'HOST': 'ec2-54-217-225-16.eu-west-1.compute.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
